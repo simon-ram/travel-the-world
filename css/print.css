@@ -1,0 +1,70 @@
+html {
+  font-size: 0.7rem;
+}
+
+canvas {
+  display: none;
+}
+
+.page-navigation__menus-container {
+  display: none;
+}
+
+.icon {
+  display: none;
+}
+
+.icon--world {
+  display: none;
+}
+
+.header__image {
+  display: none;
+}
+
+.header__hello {
+  color: black;
+  text-shadow: 0px 0px 0px black;
+}
+
+.header__explain {
+  color: black;
+  text-shadow: 0px 0px 0px black;
+}
+
+.title-container__heading {
+  color: black;
+}
+
+.title-container__heading::after {
+  display: none;
+}
+
+.pictures-images {
+  display: none;
+}
+
+.contact-details__icon--circle {
+  display: none;
+}
+
+.contact__field--button {
+  display: none;
+}
+
+.country__swiper-image, .country__swiper-text {
+  display: none;
+}
+
+.page-navigation__buttons-list {
+  display: none;
+}
+
+.contact {
+  background-image: "";
+  background-size: none;
+}
+
+.contact__disclaimer {
+  display: none;
+}
